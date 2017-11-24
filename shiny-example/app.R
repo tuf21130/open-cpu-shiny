@@ -8,7 +8,7 @@
 #
 
 library(shiny)
-library (testthat)
+library(magrittr)
 
 # Define UI for application that draws a histogram
 ui <- fluidPage(
